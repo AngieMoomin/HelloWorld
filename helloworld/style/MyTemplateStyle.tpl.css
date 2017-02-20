@@ -1,0 +1,8 @@
+{CSSTemplate {
+    $classpath : "helloWorld.style.MyTemplateStyle",
+    $hasScript : false
+}}
+    {macro main()}
+        
+       {/macro}
+{/CSSTemplate}
