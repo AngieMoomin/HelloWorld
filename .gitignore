@@ -35,3 +35,12 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# Editor configuration
+.editorconfig
+
+# Dunno what this is but it was created by the generator for aria templates
+.jshintrc
+
+#Gruntfile.js
+Gruntfile.js
